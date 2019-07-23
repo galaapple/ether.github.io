@@ -1,5 +1,5 @@
 ---
-title: 程序员修炼之道
+title: 代码检查
 layout: post
 tags: '心得,方法论'
 categories: 读书笔记
